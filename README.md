@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Srishti</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Web Developer | Frontend Focused | India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishttiii" alt="srishttiii" /></a> </p>
 
-- 🌱 I’m currently learning **Opeenshift, courses**
+- 🚀 *About Me*
 
-- 👯 I’m looking to collaborate on **Web development**
+I am a web developer with a strong focus on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into functional interfaces using modern web technologies and writing structured, maintainable code. I am continuously improving my skills through hands-on projects and real-world practice.
 
-- 🤝 I’m looking for help with **DevOps**
+💡 *What I Do*
 
-- 💬 Ask me about **DevOps**
+- Develop responsive and interactive websites
+- Build reusable frontend components
+- Convert designs into functional web interfaces
+- Focus on performance, accessibility, and clean UI
 
-- 📫 How to reach me **srishtisinha1712@gmail.com**
+📌 *Currently Working On*
+
+- Strengthening React and frontend fundamentals
+- Building web-based mini projects
+- Improving UI/UX and code quality
+
+- 📫 *Email: srishtisinha1712@gmail.com
+LinkedIn: https://www.linkedin.com/in/srishti-82b63b294*
 
 - ⚡ Fun fact **I have many talents rather than this....**
 
